@@ -1,6 +1,6 @@
 # Penerapan K-Means dan LGBMClassifier untuk Identifikasi Senyawa BACE1 sebagai Inhibitor Alzheimer
 
-Selamat datang di repositori proyek kami! Dalam proyek ini, kami menerapkan teknik **K-Means** untuk klasterisasi dan **LGBMClassifier** untuk klasifikasi senyawa aktif dan tidak aktif dalam proses screening virtual terhadap target enzim **BACE1**. Proyek ini bertujuan untuk mendukung penelitian terkait Alzheimer dengan mengidentifikasi senyawa yang potensial sebagai inhibitor **BACE1** secara lebih efisien.
+Selamat datang di repositori kami! dalam project kali ini, kami menerapkan teknik **K-Means** untuk klasterisasi dan **LGBMClassifier** untuk klasifikasi senyawa aktif dan tidak aktif dalam proses screening virtual terhadap target enzim **BACE1**. Project ini bertujuan untuk mendukung penelitian terkait Alzheimer dengan mengidentifikasi senyawa yang potensial sebagai inhibitor **BACE1** secara lebih efisien.
 
 ## Pendahuluan
 Alzheimer adalah salah satu penyakit neurodegeneratif yang paling umum terjadi pada populasi lanjut usia. Enzim **Beta-secretase 1 (BACE1)** berperan penting dalam proses pembentukan beta-amyloid yang merupakan salah satu penyebab utama penyakit Alzheimer. Identifikasi inhibitor BACE1 merupakan langkah penting dalam upaya pengembangan obat yang efektif.
