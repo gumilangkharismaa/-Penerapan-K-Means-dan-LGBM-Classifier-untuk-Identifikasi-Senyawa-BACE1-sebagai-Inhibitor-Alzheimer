@@ -1,0 +1,1 @@
+# -Penerapan-K-Means-dan-LGBM-Classifier-untuk-Identifikasi-Senyawa-BACE1-sebagai-Inhibitor-Alzheimer
