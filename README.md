@@ -60,7 +60,7 @@ Proyek ini bertujuan untuk:
 Kami terbuka untuk saran dan masukan! Jika Anda ingin berkontribusi, silakan buat pull request atau hubungi kami melalui email yang tertera di profil ini.
 
 ---
-Terima kasih telah mengunjungi repositori kami. Kami berharap proyek ini dapat memberikan kontribusi berarti dalam penelitian Alzheimer.
+Terima kasih telah mengunjungi repositori kami. Kami berharap project ini dapat memberikan kontribusi berarti dalam penelitian Alzheimer.
 
 ## Apreciation to all of them who contribute for this project! 
 1. Kharisma Gumilang
