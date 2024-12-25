@@ -12,7 +12,7 @@ Proyek ini bertujuan untuk:
 3. Menerapkan **LGBMClassifier** untuk memprediksi aktivitas bio senyawa terhadap BACE1.
 4. Memberikan evaluasi hasil.
 
-## Tahapan Proyek
+## Tahapan Project
 ### 1. Persiapan Data
 - Mengunduh dataset senyawa menggunakan kata kunci **BACE1** dari basis data bioinformatika.
 
